@@ -3,7 +3,7 @@
 - **Web scraping is the automated process of extracting data from websites by fetching their HTML content and parsing it into structured formats like CSV, JSON, or databases.**
 
 
-##🔍 **What Web Scraping Involves**:
+## 🔍 **What Web Scraping Involves**:
 
   • 	**Fetching**: Sending an HTTP request to a webpage and downloading its HTML (similar to what a browser does).
 
@@ -13,7 +13,7 @@
 
   • 	**Storing**: Saving the cleaned data into structured formats such as CSV, JSON, or databases for later analysis.
 
-##⚙️ **Tools Commonly Used**:
+## ⚙️ **Tools Commonly Used**:
 
 - *Python libraries*:
 
@@ -27,7 +27,7 @@
 
     - pandas → for cleaning and exporting data
 
- ##🚀 **Use Cases**:
+ ## 🚀 **Use Cases**:
  
   • 	**Market analysis**: Scraping product prices, reviews, and competitor offerings.
 
@@ -39,7 +39,7 @@
 
   • 	**Machine learning**: Building datasets for training models.
 
-##⚖️ **Ethical & Legal Considerations**:
+## ⚖️ **Ethical & Legal Considerations**:
 
   - Always check a site’s robots.txt and terms of service before scraping.
 
